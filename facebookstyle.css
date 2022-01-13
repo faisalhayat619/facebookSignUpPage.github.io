@@ -1,0 +1,54 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+a:hover{
+  text-decoration: none;
+}
+input:focus{
+  outline: none !important;
+  border: none!important;
+}
+header{
+  background: #4667AC;
+  padding: 30px 0 20px 0px;
+
+}
+header input {
+  outline: none;
+  box-shadow: none;
+}
+header button{
+  background: #5C74A3;
+  color: #fff;
+  padding: 3px 10px;
+  border: 1px solid #4667AC;
+  font-weight: bolder;
+}
+header form a{
+  color: #fff;
+  text-decoration: none;
+}
+.remember{
+  color: #fff;
+}
+
+                                        /* HEADER SECTION END */
+
+                                        /* REGISTRATION SECTION START */
+  #registrationSection{
+    background: linear-gradient(to bottom ,#F5F6FA,#D2D8E8);
+    padding: 30px 0px;
+  }
+  .sectionHead{
+
+  }
+  .sectionImg img{
+    width: 100%;
+    margin-top: 30px;
+  }
+  .signup{
+    margin: 20px 0px 10px 0;
+    background: #67A54B;
+    color: #fff;
+    font-weight: bolder;
+  }
+
+                                        /* REGISTRATION SECTION END */
